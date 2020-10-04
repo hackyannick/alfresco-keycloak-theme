@@ -20,7 +20,7 @@
         </script>
     <#elseif section = "form">
         <div>
-            <img class="logo" src="${url.resourcesPath}/img/alfresco-logo.svg" alt="Alfresco">
+            <img class="logo" src="${url.resourcesPath}/img/logo.png" alt="Alfresco">
         </div>
         <div class="box-container">
             <div>
